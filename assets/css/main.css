@@ -1306,8 +1306,8 @@ input, select, textarea {
 	}
 
 	body {
-		background-image: url("images/overlay.png"), url("images/bg.jpeg");
-		/* Photo by https://unsplash.com/@becomingsilence?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText Roland Larsson on https://unsplash.com/s/photos/blur?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText Unsplash 	*/
+		background-image: url("images/overlay.png"), url("images/bg.jpg");
+		/* Image by https://pixabay.com/users/peterng1618-47418/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=170971 Peter Nguyen from https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=170971 */
 		background-repeat: repeat, no-repeat;
 		background-size: auto, 100% 100%;
 		background-attachment: fixed;
