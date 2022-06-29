@@ -1306,13 +1306,12 @@ input, select, textarea {
 	}
 
 	body {
-		background-image: url("images/overlay.png"), url("images/bg.jpg");
+		background-image: url("images/overlay.png"), url("images/bg.jpeg");
 		/* Image by https://pixabay.com/users/peterng1618-47418/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=170971 Peter Nguyen from https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=170971 */
 		background-repeat: repeat, no-repeat;
 		background-size: auto, 100% 100%;
 		background-attachment: fixed;
 		overflow-y: scroll;
-		object-fit: contain;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
